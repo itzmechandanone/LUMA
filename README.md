@@ -17,4 +17,4 @@ LUMA is simple an AI based intelligent virtual assistant that is present in the 
 What makes LUMA unique is that is not just another search engine but a legit chatgpt type assistant. Meaning users can describe the products in great detail if they wish or if they don't know which product exactly they want. 
 
 For example, I want to replace the tubelight of my bathroom. Now I know I want a tubelight, but Im unaware of the type of tubelight I want, the type of pin, the length, the wattage, size etc. And to make things more complicated, I have to get it replaced on a Monday morning and there is no actual human help available at the store. There is only person, the cashier and he is busy tending to other customers. What do I do? An AI based virtual in store assitant like LUMA is a perfect solution for such and many similar use cases.
-
+![Alt text](https://raw.githubusercontent.com/itzmechandanone/LUMA/main/images/luma1.png
