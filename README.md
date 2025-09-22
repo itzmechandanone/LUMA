@@ -3,7 +3,7 @@ Lähitason Uuden sukupolven Myymälä Avustaja
 
 ## Summary
 
-LUMA or Lähitason Uuden sukupolven Myymälä Avustaja is a virtual online store assitant that helps customers find the right product provide directions to its exact shelf/aisle location in a giant retail/wholesale store. 
+LUMA or Lähitason Uuden sukupolven Myymälä Avustaja is a virtual online store assitant that helps customers find the right product and provide directions to its exact shelf/aisle location in a giant retail/wholesale store. 
 
 ## Background
 
