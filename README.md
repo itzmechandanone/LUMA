@@ -1,4 +1,4 @@
-# LUMA
+# LUMA (BOT under construction)
 Lähitason Uuden sukupolven Myymälä Avustaja
 
 ## Summary
